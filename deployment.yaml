@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: Dhivya-0003/java-app:latest
+        image: dhivya0003/java-app:latest
 ---
 apiVersion: v1
 kind: Service
